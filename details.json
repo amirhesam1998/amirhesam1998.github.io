@@ -1,0 +1,100 @@
+{
+    "Profile": {
+        "General": {
+            "Avatar": "https://avatars.githubusercontent.com/u/74879992?s=400&u=0b02f6aefbb63cc036be604b6592aaaf7d8cf6dd&v=4",
+            "FirstName": "Amirhesam",
+            "LastName": "Shokri",
+            "Email": "amirhesamshokri@gmail.com",
+            "Phone": "+989113899308",
+            "BirthDate": "1998/01/5 - 1376/10/15",
+            "Address": "Rasht."
+        },
+        "Socials": [
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/linkedin+square+icon-1320168278649782468.png",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/amirhesam1998/"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/amirhesam1998"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/bot+chat+message+telegram+icon-1320168256174387607.png",
+                "name": "Telegram",
+                "link": "https://t.me/amirhesam1"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/github+logo+social+social+network+website+icon-1320191930698657711.png",
+                "name": "Github",
+                "link": "https://github.com/amirhesam1998"
+            }
+        ],
+        "LangTech": [
+            {
+                "Name": "Python"
+            },
+            {
+                "Name": "Django"
+            },
+            {
+                "Name": "Django Restframework"
+            },
+            {
+                "Name": "Django Channels & Celery"
+            },
+            {
+                "Name": "Async Programming"
+            },
+            {
+                "Name": "Docker/DockerCompose"
+            },
+            {
+                "Name": "HTML & CSS"
+            },
+            {
+                "Name": "JavaScript"
+            },
+            {
+                "Name": "React"
+            },
+            {
+                "Name": "Redis"
+            },
+            {
+                "Name": "Git/Github/Gitlab"
+            },
+            {
+                "Name": "Network+"
+            }        
+        ],
+        "Skills": [
+            {
+                "Name": "Self Study"
+            },
+            {
+                "Name": "Curious"
+            },
+            {
+                "Name": "Fast Learner"
+            },
+            {
+                "Name": "Creative"
+            },
+            {
+                "Name": "R&D is my thing"
+            }
+        ],
+        "Educations": [
+            {
+                "from": 2016,
+                "to": 2021,
+                "grade": "Bachelor",
+                "in": "Mathematics and applications",
+                "institute": "Guilan University",
+                "descriptions": ""
+            }
+        ]
+    }
+}
