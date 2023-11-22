@@ -66,10 +66,10 @@
                 "Name": "Redis"
             },
             {
-                "Name": "nginx"
+                "Name": "Nginx"
             },
             {
-                "Name": "gunicorn"
+                "Name": "Gunicorn"
             },
             {
                 "Name": "Git/Github/Gitlab"
