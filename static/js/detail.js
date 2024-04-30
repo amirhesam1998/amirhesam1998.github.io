@@ -1,4 +1,4 @@
-$.getJSON('details.json', function (data) {
+$.getJSON('/details.json', function (data) {
   //$('meta#ogtitle').attr("content", `${data.Profile.General.FirstName} ${data.Profile.General.LastName} Resume`);
   //$('meta#ogurl').attr("content", window.location.href);
   //$('meta#ogimage').attr("content", `${data.Profile.General.Avatar}`);

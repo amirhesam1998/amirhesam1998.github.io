@@ -36,6 +36,9 @@
                 "Name": "Python"
             },
             {
+                "Name": "Php"
+            },
+            {
                 "Name": "Django"
             },
             {
@@ -43,6 +46,9 @@
             },
             {
                 "Name": "RESTFull API"
+            },
+            {
+                "Name": "Laravel"
             },
             {
                 "Name": "Django Channels & Celery"
@@ -54,10 +60,7 @@
                 "Name": "Docker/DockerCompose"
             },
             {
-                "Name": "HTML & CSS"
-            },
-            {
-                "Name": "JavaScript"
+                "Name": "HTML & CSS & JavaScript"
             },
             {
                 "Name": "React"
@@ -103,6 +106,17 @@
                 "in": "Mathematics and applications",
                 "institute": "Guilan University",
                 "descriptions": ""
+            }
+        ],
+        "About": [
+            {
+                "Text": "I’m a junior Back-End Developer. I started my journey with a degree in applied mathematics, but since I was very interested in technology and computer science, I was able to advance my career path towards the world of programming by using the degree and knowledge I gained from mathematics.
+
+                My main tools are Python, Php. These skills help me create just the right solutions for the businesses I work with, especially when they need something reliable and scalable. I also believe in working together as a team and using Agile and Scrum methods to get things done better and faster.
+                
+                I love tackling challenges, especially when it comes to organizing databases, making software run smoothly, and building systems that can grow with a company. I’m on the lookout for opportunities where I can put my Python , Php and Software development skills to good use and help create amazing tech that makes a difference.
+                
+                Python, Php, Django, Laravel, REST APIs, SQL, NoSql, database design, design pattern, Docker, Linux, software engineering."
             }
         ]
     }
