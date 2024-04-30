@@ -7,48 +7,53 @@
             "Email": "amirhesamshokri@gmail.com",
             "Phone": "+989113899308",
             "BirthDate": "1998/01/5 - 1376/10/15",
-            "Address": "Rasht."
+            "Address": "Iran . Guilan Province , Rasht"
         },
         "Socials": [
             {
-                "icon": "https://icons-for-free.com/iconfiles/png/512/linkedin+square+icon-1320168278649782468.png",
+                "icon": "https://img.icons8.com/color/48/linkedin.png",
                 "name": "Linkedin",
                 "link": "https://www.linkedin.com/in/amirhesam1998/"
             },
             {
-                "icon": "https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png",
+                "icon": "https://img.icons8.com/fluency/48/instagram-new.png",
                 "name": "Instagram",
                 "link": "https://www.instagram.com/amirhesam1998"
             },
             {
-                "icon": "https://icons-for-free.com/iconfiles/png/512/bot+chat+message+telegram+icon-1320168256174387607.png",
+                "icon": "https://img.icons8.com/fluency/240/telegram-app.png",
                 "name": "Telegram",
                 "link": "https://t.me/amirhesam1"
             },
             {
-                "icon": "https://icons-for-free.com/iconfiles/png/512/github+logo+social+social+network+website+icon-1320191930698657711.png",
+                "icon": "https://img.icons8.com/color-glass/48/github--v1.png",
                 "name": "Github",
                 "link": "https://github.com/amirhesam1998"
             }
+
+            
         ],
         "LangTech": [
             {
-                "Name": "Python"
+                "Name": "Php"
             },
             {
-                "Name": "Php"
+                "Name": "Laravel"
+            },
+            {
+                "Name": "MySQL , MongoDb , PostgreSQL"
+            },
+            {
+                "Name": "Python"
             },
             {
                 "Name": "Django"
             },
             {
-                "Name": "Django Restframework"
+                "Name": "Django RestFramework"
             },
             {
                 "Name": "RESTFull API"
-            },
-            {
-                "Name": "Laravel"
             },
             {
                 "Name": "Django Channels & Celery"
@@ -110,13 +115,19 @@
         ],
         "About": [
             {
-                "Text": "I’m a junior Back-End Developer. I started my journey with a degree in applied mathematics, but since I was very interested in technology and computer science, I was able to advance my career path towards the world of programming by using the degree and knowledge I gained from mathematics.
-
-                My main tools are Python, Php. These skills help me create just the right solutions for the businesses I work with, especially when they need something reliable and scalable. I also believe in working together as a team and using Agile and Scrum methods to get things done better and faster.
-                
-                I love tackling challenges, especially when it comes to organizing databases, making software run smoothly, and building systems that can grow with a company. I’m on the lookout for opportunities where I can put my Python , Php and Software development skills to good use and help create amazing tech that makes a difference.
-                
-                Python, Php, Django, Laravel, REST APIs, SQL, NoSql, database design, design pattern, Docker, Linux, software engineering."
+                "descriptions": "<span>I’m a junior Back-End Developer. I started my journey with a degree in applied mathematics, but since I was very interested in technology and computer science, I was able to advance my career path towards the world of programming by using the degree and knowledge I gained from mathematics.<br><br> My main tools are Python, Php. These skills help me create just the right solutions for the businesses I work with, especially when they need something reliable and scalable. I also believe in working together as a team and using Agile and Scrum methods to get things done better and faster.<br><br> I love tackling challenges, especially when it comes to organizing databases, making software run smoothly, and building systems that can grow with a company. I’m on the lookout for opportunities where I can put my Python , Php and Software development skills to good use and help create amazing tech that makes a difference."
+            }
+        ],
+        "Work": [
+            {
+                "from": "Jan 2023",
+                "to": "Present",
+                "title": "Technical Director",
+                "company": "Rivas System Pars",
+                "mode": "Full Time",
+                "city": "Rasht",
+                "descriptions": "Rivas System Pars is a leading software development company in Iran, specializing in the production and sale of software products, including Customer Relationship Management (CRM) systems. As the Technical Director, I play a key role in the design and implementation of these systems using the PHP programming language and Laravel framework. My responsibilities include overseeing the development team, improving technical processes, and ensuring the highest quality standards in software development. My experience at Rivas System Pars has allowed me to leverage my leadership and technical skills in a dynamic and innovative environment, contributing to the strategic goals of the company.",
+                "site" : "https://www.rivasit.com"
             }
         ]
     }

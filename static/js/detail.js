@@ -1,4 +1,4 @@
-$.getJSON('/details.json', function (data) {
+$.getJSON('details.json', function (data) {
   //$('meta#ogtitle').attr("content", `${data.Profile.General.FirstName} ${data.Profile.General.LastName} Resume`);
   //$('meta#ogurl').attr("content", window.location.href);
   //$('meta#ogimage').attr("content", `${data.Profile.General.Avatar}`);
@@ -37,6 +37,7 @@ $.getJSON('/details.json', function (data) {
         </div>
       </div>`);
   }
+
   for (let object of data.Profile.Work) {
     $("#Work").append(`<div class= "jobster-candidate-timeline" >
       <div class="jobster-timeline-item">
@@ -48,6 +49,21 @@ $.getJSON('/details.json', function (data) {
             <span class="jobster-timeline-time">${object.from} to ${object.to}</span>
             <h6 class="mb-2">${object.title}</h6>
             <span>- ${object.company} (${object.mode}) - ${object.city} </span>
+            <p class="mt-2">${object.descriptions}</p>
+          </div>
+        </div>
+      </div>                    
+      </div>`);
+  }
+  
+  for (let object of data.Profile.About) {
+    $("#About").append(`<div class= "jobster-candidate-timeline" >
+      <div class="jobster-timeline-item">
+        <div class="jobster-timeline-cricle">
+          <i class="far fa-circle"></i>
+        </div>
+        <div class="jobster-timeline-info">
+          <div class="dashboard-timeline-info">
             <p class="mt-2">${object.descriptions}</p>
           </div>
         </div>
